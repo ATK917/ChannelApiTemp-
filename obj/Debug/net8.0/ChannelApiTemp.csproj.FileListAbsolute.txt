@@ -152,3 +152,4 @@ C:\Users\Administrator\ChannelApi\ChannelApiTemp\obj\Debug\net8.0\refint\Channel
 C:\Users\Administrator\ChannelApi\ChannelApiTemp\obj\Debug\net8.0\ChannelApiTemp.pdb
 C:\Users\Administrator\ChannelApi\ChannelApiTemp\obj\Debug\net8.0\ChannelApiTemp.genruntimeconfig.cache
 C:\Users\Administrator\ChannelApi\ChannelApiTemp\obj\Debug\net8.0\ref\ChannelApiTemp.dll
+C:\Users\Administrator\ChannelApi\ChannelApiTemp\obj\Debug\net8.0\ChannelApiTemp.sourcelink.json
