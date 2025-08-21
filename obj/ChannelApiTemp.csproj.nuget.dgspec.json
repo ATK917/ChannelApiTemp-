@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\ChannelApi\\ChannelApiTemp\\ChannelApiTemp.csproj": {}
+    "/Users/ardakeklik/Projects/ChannelApiTemp-/ChannelApiTemp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\ChannelApi\\ChannelApiTemp\\ChannelApiTemp.csproj": {
+    "/Users/ardakeklik/Projects/ChannelApiTemp-/ChannelApiTemp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\ChannelApi\\ChannelApiTemp\\ChannelApiTemp.csproj",
+        "projectUniqueName": "/Users/ardakeklik/Projects/ChannelApiTemp-/ChannelApiTemp.csproj",
         "projectName": "ChannelApiTemp",
-        "projectPath": "C:\\Users\\Administrator\\ChannelApi\\ChannelApiTemp\\ChannelApiTemp.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\ChannelApi\\ChannelApiTemp\\obj\\",
+        "projectPath": "/Users/ardakeklik/Projects/ChannelApiTemp-/ChannelApiTemp.csproj",
+        "packagesPath": "/Users/ardakeklik/.nuget/packages/",
+        "outputPath": "/Users/ardakeklik/Projects/ChannelApiTemp-/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/ardakeklik/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -103,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
